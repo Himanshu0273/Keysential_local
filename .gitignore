@@ -1,0 +1,16 @@
+# Ignore build folder (dist)
+dist/
+
+# Node.js and npm related files
+node_modules/
+
+# Log files
+*.log
+
+# Operating System files (macOS specific)
+.DS_Store
+
+# Editor files (VSCode, Sublime, etc.)
+.vscode/
+.sublime-project
+.sublime-workspace
